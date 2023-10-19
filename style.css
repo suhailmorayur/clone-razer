@@ -1,0 +1,430 @@
+*{
+    margin: 0;
+    margin-right: 0;
+}
+body{
+    background-color: rgb(75, 75, 75) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(0, 0, 0));
+    height: 75px;
+    line-height: 75px;
+    padding: 0px 100px;
+    position: fixed;
+    width: 100%;
+
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 10px;
+    float: left;
+}
+nav ul{
+    float: right;
+    margin-top: -5px;
+    margin-left: 40px;
+}
+nav li{
+    display: inline;
+    
+}
+nav li a{
+    font-size: 20px;
+    padding: 0px 20px;
+    color: rgb(174, 174, 174);
+    text-decoration: none;
+    
+ }
+ nav li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease 0;
+}
+
+.green{
+    height: 80px;
+    background-color: green;
+}
+
+
+
+.p1{
+  padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+.prime{
+    display: flex;
+    margin-top: -650px;
+   margin-left: 320px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 25px;
+  
+}
+.oct1{
+    display: flex;
+    margin-top: 10px;
+   margin-left: 550px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 30px;
+   
+}
+.merc{
+   margin-top: 502px;
+
+    
+}
+.merc1{
+    display: flex;
+    margin-top: -550px;
+   margin-left: 320px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 25px;
+}
+.merc2{
+    display: flex;
+    margin-top: 10px;
+   margin-left: 550px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 30px;;
+}
+.fujin{
+      margin-top: 420px;
+
+}
+
+.fujin1{
+    display: flex;
+    margin-top: -550px;
+   margin-left: 580px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 25px;
+}
+.fujin2{
+    display: flex;
+    margin-top: 10px;
+   margin-left: 670px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 20px;;
+}
+
+.kitsune{
+    margin-top: 445px;
+ 
+}
+.kitsune1{
+    display: flex;
+    margin-top: -430px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+}
+.kitsune2{
+    display: flex;
+    margin-top: 10px;
+   margin-left: 150px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 20px;;
+}
+.black{
+    float: right;
+    margin-top: -206px;
+ 
+   
+}
+
+.black1 {
+    display: flex;
+    margin-top: -420px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 15px;
+}
+.black2{
+    display: flex;
+    margin-top: 10px;
+   margin-left: 300px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 15px;;
+}
+
+.lamborghini{
+   margin-top: 305px;
+    background-repeat: no-repeat;
+}
+
+
+.b1{
+    width: 100px;
+    text-align: center;
+    
+    font-weight: bold;
+    background-color: rgb(255, 208, 0);
+    height: 35px;
+    cursor: pointer;
+    display: flex;
+    border: none;
+    margin-top: -450px;
+    margin-left: 300px;
+}
+
+.lamborghini1{
+
+    display: flex;
+    margin-top: 4px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 17px;
+}
+
+.lamborghini2{
+
+    display: flex;
+    margin-top: 5px;
+   margin-left: 220px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 15px;;
+}
+.more{
+    float: right;
+    margin-top: -171px;
+    margin-right:0px ;
+}
+
+.more1{
+
+    display: flex;
+    margin-top: -410px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 17px;
+}
+
+.more2{
+    display: flex;
+    margin-top: 5px;
+   margin-left: 300px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 15px;;
+}
+
+.blade{
+    padding-top: 340px;
+}
+
+.blade1{
+
+    display: flex;
+    margin-top: -399px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 17px;
+
+}
+
+.blade2{
+
+    display: flex;
+    margin-top: 5px;
+   margin-left: 220px;
+   text-decoration: none;
+   color: white;
+   font-size: 15px;;
+}
+
+.esports{
+    float: right;
+    margin-top: -185px;
+    margin-right: 0px;
+}
+
+.esports1{
+    display: flex;
+    margin-top: -399px;
+   margin-left: 180px;
+   text-align: center;
+   text-decoration: none;
+   color: white;
+   font-size: 17px;
+
+}
+
+.esports2{
+
+    display: flex;
+    margin-top: 5px;
+   margin-left: 230px;
+  
+   text-decoration: none;
+   color: white;
+   font-size: 15px;;
+}
+
+.footter{
+    margin-top: 325px;
+   
+    
+}
+
+#a{
+width: 20px;  
+margin-left: 700px;  
+
+}
+
+
+.shop{
+    margin-top: 50px;
+margin-left: 150px;
+}
+
+.shop li a{
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+    font-size: 15px;
+}
+
+.shop li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease 0;
+}
+
+.explore{
+    margin-top:50px;
+ margin-right: 1000px;
+ 
+
+}
+.explore  li a{
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+    font-size: 15px;
+}
+.explore li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease 0;
+}
+
+.support{
+    margin-left: 400px;
+    margin-top: -169px;
+    
+    
+    margin-right: 700px;
+
+
+}
+
+.support li a{
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+    font-size: 15px;
+}
+
+.support li a:hover{
+    color: rgb(255, 255, 255);                         
+    transition: all 0.4s ease 0;
+}
+
+.company{
+margin-right: px;
+margin-left: 700px;
+margin-top: -150px;
+
+}
+
+.company li a{
+    
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+    font-size: 15px;
+}
+
+.company li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease 0;
+}
+
+
+
+
+
+
+
+
+
+.follow{
+    margin-top: -110PX;
+    margin-right: px;
+    margin-left: 300px;
+    
+    
+}
+
+
+.copy li{
+    display: inline;
+    color: beige;
+    text-align: center;
+   
+
+}
+.copy{
+    margin-top: 10px;
+    
+}
+.copy li a{
+    text-decoration: none;
+    color: beige;
+    text-align: center;
+    
+}
+
+.copy li a:hover{
+    color: rgb(255, 255, 255);
+    transition: all 0.4s ease 0;
+}
+
+#c{
+    margin-left: 20px;
+}
+
+.game{
+    float: right;
+    color: rgb(3, 255, 3);
+    font-size: 15px;
+    margin-top: 50px;
+    margin-right: 80px;
+}
+
